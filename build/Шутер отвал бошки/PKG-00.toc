@@ -1,0 +1,60 @@
+('C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+ 'бошки\\Шутер отвал бошки.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\build\\Шутер отвал '
+   'бошки\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program '
+   'files\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\program '
+   'files\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'c:\\program '
+   'files\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'c:\\program '
+   'files\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('shooter_game',
+   'C:\\Users\\bess7\\OneDrive\\Рабочий стол\\Новая папка\\shooter_game.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
